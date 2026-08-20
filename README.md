@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hola, soy TU NOMBRE</h1>
+<h1 align="center">👨‍💻 Hola, soy NoeJD</h1>
 
 <h3 align="center">
   🐍 Python Developer | 🌐 Web Developer | 🗄️ Database | 🔐 Secure Systems
@@ -196,11 +196,11 @@ GitHub y servicios cloud
 
 <p align="center">
 
-<a href="https://github.com/TU-USUARIO">
+<a href="https://github.com/6045noe5091-svg">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="mailto:TU-CORREO">
+<a href="mailto:6045noe5091@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
